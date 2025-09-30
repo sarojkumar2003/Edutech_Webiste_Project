@@ -1,36 +1,35 @@
 # 🎓 EduTech Website – Intern Indian Academy
 
-This is a **Full Edutech Platform** built using **JavaScript** where students can explore courses, register, log in, and securely make payments.  
-The website is live at: [https://internindianacademy.in/](https://internindianacademy.in/)
+We built a **Full Edutech Website** using only **JavaScript, HTML, and CSS**.  
+The platform allows students to explore courses, log in, and make secure payments online.  
+
+🌐 Live Website: [https://internindianacademy.in/](https://internindianacademy.in/)
 
 ---
 
 ## 🚀 Features
-- 🔑 User Registration & Login (Authentication)  
-- 📚 Browse & Explore Courses  
-- 💳 Secure Payment Integration (Razorpay / Stripe)  
-- 🎓 Enroll & Learn after successful payment  
-- 📊 User Dashboard for enrolled courses  
-- 🛠️ Admin Panel to manage courses  
+- 📚 Course Listing – All courses displayed dynamically  
+- 🔑 User Login & Signup (using JavaScript-based validation)  
+- 💳 Payment Integration (Razorpay / PayPal)  
+- 🎓 Enroll in courses after payment  
+- 📱 Responsive design for mobile & desktop  
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Authentication**: JWT (JSON Web Token)  
-- **Payments**: Razorpay / Stripe API  
-- **Hosting**: [Intern Indian Academy](https://internindianacademy.in/)  
+## 🛠️ Tech Used
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript (Vanilla JS)** – Logic & Functionality  
+- **Payment Gateway** – Razorpay / PayPal  
 
 ---
 
 ## 📂 Project Flow
-1. **Signup / Login** → Students create accounts using email & password.  
-2. **Explore Courses** → Course list fetched dynamically.  
-3. **Payment Integration** → Pay securely for a course using Razorpay/Stripe.  
-4. **Enroll & Access** → Unlock course content after payment success.  
-5. **Admin** → Add / Edit / Remove courses easily.  
+1. **Home Page** → Shows featured courses  
+2. **Login/Signup** → Users can create accounts (basic auth with JS)  
+3. **Course Page** → Display course details (title, price, description)  
+4. **Payment Integration** → Secure payment using Razorpay/PayPal  
+5. **Enrollment** → After payment, students get course access  
 
 ---
 
